@@ -1,9 +1,2 @@
-print("hello world")
-<<<<<<< HEAD
-print("hello")
-
-print("g")
-=======
 print("hw")
 print("f")
->>>>>>> main
