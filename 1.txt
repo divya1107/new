@@ -1,2 +1,2 @@
-print("hw")
-print("f")
+print("hello world")
+print("hello world1")
